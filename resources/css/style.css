@@ -77,7 +77,7 @@ section{
 
 
 header{/*This allows the split between landing page and the rest of the page*/
-    background-image: linear-gradient(rgba(28, 28, 28, 0.6), rgba(0, 0, 0, 0.7)), url("//raw.githubusercontent.com/ValaParthvi/valaparthvi.github.io/master/DSC_07321.scriptbackground.png");
+    background-image: linear-gradient(rgba(28, 28, 28, 0.6), rgba(0, 0, 0, 0.7)), url("https://github.com/placebo/website/blob/gh-pages/resources/img/scriptbackground.png");
     background-position: center;
     background-size: cover;
     height: 100vh;
